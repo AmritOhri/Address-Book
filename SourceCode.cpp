@@ -35,7 +35,7 @@ void open()
    cout<<"##############";
    cout<<"\n\n\n "<<setw(50)<<" ******* ADDRESS BOOK ******* " ;
    cout<<"\n\n\n "<<setw(60)<<"   C++ project "<<endl;
-   cout<<setw(80)<<"   By : Amrit Ohri & Anumay Sethi ";
+   cout<<setw(80)<<"   By : Amrit Ohri ";
    cout<<"\n\n\n\n Press any key to continue \n\n\n\n\n\n";
    cout<<"##################################################################";
    cout<<"##############";
